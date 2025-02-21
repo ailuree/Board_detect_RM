@@ -1,0 +1,27 @@
+﻿  ArmorDetector.cpp
+E:\vgd\shibie\detector\ConsoleApplication1\ConsoleApplication1\ArmorDetector.h(1,1): warning C4828: 文件包含在偏移 0x702 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\vgd\shibie\detector\ConsoleApplication1\ConsoleApplication1\ArmorDetector.h(35,1): warning C4305: “=”: 从“double”到“float”截断
+E:\vgd\shibie\detector\ConsoleApplication1\ConsoleApplication1\ArmorDetector.h(38,1): warning C4305: “=”: 从“double”到“float”截断
+E:\vgd\shibie\detector\ConsoleApplication1\ConsoleApplication1\ArmorDetector.cpp(107,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\vgd\shibie\detector\ConsoleApplication1\ConsoleApplication1\ArmorDetector.cpp(117,37): warning C4305: “*=”: 从“double”到“_Tp”截断
+          with
+          [
+              _Tp=float
+          ]
+E:\vgd\shibie\detector\ConsoleApplication1\ConsoleApplication1\ArmorDetector.cpp(118,36): warning C4305: “*=”: 从“double”到“_Tp”截断
+          with
+          [
+              _Tp=float
+          ]
+E:\vgd\shibie\detector\ConsoleApplication1\ConsoleApplication1\ArmorDetector.cpp(150,75): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vgd\shibie\detector\ConsoleApplication1\ConsoleApplication1\ArmorDetector.cpp(151,75): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\vgd\shibie\detector\ConsoleApplication1\ConsoleApplication1\ArmorDetector.cpp(152,66): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  ConsoleApplication1.vcxproj -> E:\vgd\shibie\detector\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
